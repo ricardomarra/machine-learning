@@ -1,0 +1,8 @@
+﻿;Brasilia;Manaus;Natal;Sao Paulo;Porto alegre;Rio de Janeiro;Rio Branco
+Brasilia;0;1950;1775;872;1618;931;2256
+Manaus;1950;0;2760;2675;3132;2838;1145
+Natal;1775;2760;0;2322;3168;2086;3617
+Sao Paulo;872;2675;2322;0;858;360;2694
+Porto alegre;1618;3132;3168;858;0;1116;2814
+Rio de Janeiro;931;2838;2086;360;1116;0;2991
+Rio Branco;2256;1145;3617;2694;2814;2991;0
