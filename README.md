@@ -11,3 +11,6 @@ A disciplina foi composta de listas de exercícios sobre cada tópico visto em c
 - Lista 02: Aprendizado Supervisionado - Classificador/Regressor de Bayes
 - Lista 03: Aprendizado Não supervisionado - PCA, K-means, MDS
 
+Cada pasta do repositório contém uma lista resolvida. Cada lista contém um arquivo do Jupyter 
+Notebook  utilizado para se escrever os códigos e um arquivo em pdf com o relatório explicando a 
+resolução de cada questão. O enunciado de cada questão está em inglês.
