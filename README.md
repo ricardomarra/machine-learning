@@ -10,6 +10,7 @@ A disciplina foi composta de listas de exercícios sobre cada tópico visto em c
 - Lista 01: Probabilidade e Estatística
 - Lista 02: Aprendizado Supervisionado - Classificador/Regressor de Bayes
 - Lista 03: Aprendizado Não supervisionado - PCA, K-means, MDS
+- Lista 04: Redes neurais, Árvores de Decisão, SVM
 
 Cada pasta do repositório contém uma lista resolvida. Cada lista contém um arquivo do Jupyter 
 Notebook  utilizado para se escrever os códigos e um arquivo em pdf com o relatório explicando a 
